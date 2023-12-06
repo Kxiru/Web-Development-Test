@@ -24,10 +24,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 Image to recreate:
 
-![Image to recreate](/canonical-test/src/images/Example_image.png)
+![Image to recreate](./src/images/Example_image.png)
 
 Recreation:
 
-![Recreation](/canonical-test/src/images/Completed_Task.png)
+![Recreation](./src/images/Completed_Task.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
