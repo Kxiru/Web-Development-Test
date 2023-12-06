@@ -1,0 +1,49 @@
+@import "../node_modules/vanilla-framework/scss/vanilla";
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap");
+@include vanilla;
+
+hr {
+  background-color: #fff;
+  border-top: 1px dotted #8c8b8b;
+  width: 95%;
+}
+
+.p-card__image {
+  padding: 15px 15px 0 15px;
+}
+
+.article-card {
+  border-radius: 5px;
+  box-shadow: 2px 2px 5px lightgrey;
+
+  font-family: "Ubuntu", "sans-serif";
+  font-weight: 400;
+}
+
+h3 {
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: #1a9cd5;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.colour-box {
+  height: 4px;
+  background-color: #a87ca0;
+}
+
+.post-meta {
+  font-style: italic;
+  font-size: 18px;
+}
+
+.p-card__inner {
+  padding: 0.5rem, 1rem;
+}
